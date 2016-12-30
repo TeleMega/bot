@@ -3,7 +3,7 @@
 # برای نصب سورس کد زیر را در ترمینان وارد کنید
 
 ```sh
-sudo apt-get update; sudo apt-get upgrade -y --force-yes; sudo apt-get dist-upgrade -y --force-yes; sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev libjansson* libpython-dev make unzip git redis-server g++ autoconf -y --force-yes && git clone https://github.com/TeleMega/bot -b supergrpups && cd bot && chmod +x launch.sh && ./launch.sh install && ./launch.sh
+sudo apt-get update; sudo apt-get upgrade -y --force-yes; sudo apt-get dist-upgrade -y --force-yes; sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev libjansson* libpython-dev make unzip git redis-server g++ autoconf -y --force-yes && git clone https://github.com/TeleMega/bot.git -b supergroups && cd bot && chmod +x launch.sh && ./launch.sh install && ./launch.sh
 ```
 # دقت کنید که کل کد رو وارد کنید
 
@@ -13,7 +13,7 @@ sudo apt-get update; sudo apt-get upgrade -y --force-yes; sudo apt-get dist-upgr
 
 # [آموزش سودو کردن](https://telegram.me/TeleMega)
 
-# این سورس اتولانچ پیکا(ازمحمدعزیز)روش هست برای آموزش فعال کردن پیکا بر روی لینک زیر کلیک کنید
+# این سورس اتولانچ پیکاروش هست برای آموزش فعال کردن پیکا بر روی لینک زیر کلیک کنید
 
 # [کلیک کنید](https://telegram.me/TeleMega)
 
@@ -63,14 +63,13 @@ sudo apt-get update; sudo apt-get upgrade -y --force-yes; sudo apt-get dist-upgr
 
 
 ## Commands
-TeleDiamond has several commands that are only usable at certain ranks.
+TeleMega has several commands that are only usable at certain ranks.
 
 
 ## General Commands
 | Command | Description |
 |:--------|:------------|
 | [#!/]id | Returns group/SuperGroup ID or user id in pm. |
-| [#!/]telediamond | Returns bot information. |
 
 
 ## Private Message Commands
@@ -273,7 +272,7 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/Mohammadrezar/telediamond.git -b supergroups
+git clone https://github.com/TeleMega/bot.git -b supergroups
 cd telediamond
 chmod +x launch.sh
 ./launch.sh install
@@ -283,7 +282,7 @@ chmod +x launch.sh
 To install everything in one command (useful for VPS deployment) on Debian-based distros, use:
 ```sh
 #https://github.com/yagop/telegram-bot/wiki/Installation
-sudo apt-get update; sudo apt-get upgrade -y --force-yes; sudo apt-get dist-upgrade -y --force-yes; sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev libjansson* libpython-dev make unzip git redis-server g++ autoconf -y --force-yes && git clone https://github.com/Mohammadrezar/telediamond.git -b supergroups && cd telediamond && chmod +x launch.sh && ./launch.sh install && ./launch.sh
+sudo apt-get update; sudo apt-get upgrade -y --force-yes; sudo apt-get dist-upgrade -y --force-yes; sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev libjansson* libpython-dev make unzip git redis-server g++ autoconf -y --force-yes && git clone https://github.com/TeleMega/bot.git -b supergroups && cd telediamond && chmod +x launch.sh && ./launch.sh install && ./launch.sh
 ```
 
 * * *
