@@ -1,4 +1,4 @@
-# [TeleDiamond](https://telegram.me/antispamandhack)
+# [TeleMega](https://telegram.me/TeleMega)
 
 # برای نصب سورس کد زیر را در ترمینان وارد کنید
 
@@ -11,21 +11,21 @@ sudo apt-get update; sudo apt-get upgrade -y --force-yes; sudo apt-get dist-upgr
 
 برای اموزش سودو کردن برو روی لینک زیر کلیک کنید.
 
-# [آموزش سودو کردن](http://telegram.me/antispamandhack/267)
+# [آموزش سودو کردن](https://telegram.me/TeleMega)
 
 # این سورس اتولانچ پیکا(ازمحمدعزیز)روش هست برای آموزش فعال کردن پیکا بر روی لینک زیر کلیک کنید
 
-# [کلیک کنید](http://telegram.me/antispamandhack/276)
+# [کلیک کنید]https://telegram.me/TeleMega)
 
 
 
 
-# [Mohammad](http://telegram.me/mrr619) سوالی یا مشکلی بود در خدمتم
+# [Linuxer](http://telegram.me/Abbas_pv_bot) سوالی یا مشکلی بود در خدمتم
 
 
 # برای ورود به کانال کلیک کن
 
-# [عضویت](http://telegram.me/antispamandhack)
+# [عضویت](https://telegram.me/TeleMega)
 
 # راهنمای سودو :
 
