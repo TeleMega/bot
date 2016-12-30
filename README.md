@@ -15,7 +15,7 @@ sudo apt-get update; sudo apt-get upgrade -y --force-yes; sudo apt-get dist-upgr
 
 # این سورس اتولانچ پیکا(ازمحمدعزیز)روش هست برای آموزش فعال کردن پیکا بر روی لینک زیر کلیک کنید
 
-# [کلیک کنید]https://telegram.me/TeleMega)
+# [کلیک کنید](https://telegram.me/TeleMega)
 
 
 
